@@ -2,14 +2,8 @@
 import os
 
 # 3rd Party Libraries
-import yaml
+import toml
 
 # config details
 
-globals().update(
-    yaml.safe_load(
-        open(
-            f"C:\\Users\\{os.getlogin()}\\some_file.yml"
-        )
-    )
-)
+globals().update(toml.load("C:\\config\\settings.toml"))
