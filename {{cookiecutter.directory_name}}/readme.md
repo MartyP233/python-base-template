@@ -1,6 +1,6 @@
 # {{ cookiecutter.directory_name }}
 
-Write Project description here
+{{cookiecutter.description}}
 
 ## Motivation
 

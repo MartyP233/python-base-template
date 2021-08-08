@@ -1,4 +1,7 @@
 {
     "directory_name": "project",
-    "file_name": "file"
+    "file_name": "file",
+    "description": "simple description",
+    "author": "Anonymous",
+    "author_email": "Anonymous"
 }

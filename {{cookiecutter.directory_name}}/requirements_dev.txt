@@ -3,3 +3,4 @@ pip-review
 flake8
 bandit
 ipython
+pytest
