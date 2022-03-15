@@ -31,3 +31,9 @@ conftest.py
 /venv
 
 .Rhistory
+
+.env
+
+/Output
+
+run_me_first.bat
